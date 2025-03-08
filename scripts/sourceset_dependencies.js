@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":jcef:dokkaHtmlPartial/main":[],":kcef:dokkaHtmlPartial/main":[]}'
